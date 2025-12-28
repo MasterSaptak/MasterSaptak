@@ -41,11 +41,9 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           
-          # Plugin: Habits
-          plugin_habits: no
-          # plugin_habits_charts_type: classic
-          # plugin_habits_days: 14
-          # plugin_habits_facts: yes
+          # Plugin: Followup (Issues/PRs Charts)
+          plugin_followup: yes
+          plugin_followup_sections: repositories
           plugin_habits_from: 200
           
           # Plugin: Lines of code
@@ -56,6 +54,25 @@ jobs:
           # Plugin: Introduction
           plugin_introduction: yes
           plugin_introduction_title: yes
+
+          # Plugin: Isocalendar (3D Contributions)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # Plugin: Habits (Coding Heatmap/Charts)
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_facts: no
+          plugin_habits_days: 14
+
+          # Plugin: Stargazers (Growth Chart)
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+
+          # Plugin: Reactions (Radar Chart)
+          plugin_reactions: yes
+          plugin_reactions_limit: 100
+          plugin_reactions_details: percentage
 
       - name: Proficiency Metrics (Languages & Topics)
         uses: lowlighter/metrics@latest
