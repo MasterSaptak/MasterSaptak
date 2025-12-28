@@ -65,8 +65,7 @@ I specialize in building high-performance, real-world production systems. From a
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MasterSaptak&show_icons=true&theme=tokyonight&hide_border=true&v=1" width="400" alt="MasterSaptak's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterSaptak&layout=compact&theme=tokyonight&hide_border=true&v=1" width="300" alt="Top Langs" />
+  <img src="https://raw.githubusercontent.com/MasterSaptak/MasterSaptak/main/github-metrics.svg" width="100%" alt="Personal Metrics" />
 </p>
 
 <p align="center">
@@ -85,10 +84,6 @@ I specialize in building high-performance, real-world production systems. From a
   <img src="https://raw.githubusercontent.com/MasterSaptak/MasterSaptak/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<!-- Lowlighter/Metrics section -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MasterSaptak/MasterSaptak/main/github-metrics.svg" width="100%" alt="Personal Metrics" />
-</p>
 
 ---
 

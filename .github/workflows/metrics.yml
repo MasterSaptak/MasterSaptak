@@ -56,3 +56,8 @@ jobs:
           # Plugin: Introduction
           plugin_introduction: yes
           plugin_introduction_title: yes
+
+          # Plugin: Topics (Tech Stack)
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 0
