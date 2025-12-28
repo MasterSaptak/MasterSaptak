@@ -77,10 +77,7 @@ DHOPA is built for high-volume, low-margin environments where efficiency matters
 #### 📊 Proficiency & Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-95%25-0077B5?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /><br>
-  <img src="https://img.shields.io/badge/TypeScript-90%25-0077B5?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /><br>
-  <img src="https://img.shields.io/badge/System%20Design-85%25-0077B5?style=for-the-badge&logo=design&logoColor=white" alt="System Design" /><br>
-  <img src="https://img.shields.io/badge/AI%2FIoT%20Integration-80%25-0077B5?style=for-the-badge&logo=intel&logoColor=white" alt="AI/IoT Integration" />
+  <img src="https://raw.githubusercontent.com/MasterSaptak/MasterSaptak/main/proficiency.svg" width="100%" alt="Real-time Proficiency Metrics" />
 </p>
 
 ---
