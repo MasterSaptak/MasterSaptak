@@ -14,14 +14,55 @@
 
 ---
 
-### ⚡ Professional Persona
-**Founder • Full-Stack Engineer • Systems Architect • AI & IoT Specialist**
+### ⚡ Founder • Full-Stack Engineer • Systems Architect
 
-I specialize in building high-performance, real-world production systems. From architecting scalable SaaS infrastructures to engineering hardware-software integrated IoT solutions, I focus on building products that solve complex problems with elegant engineering.
+I build technology-backed businesses, not just software. My focus is creating scalable digital systems that solve operational problems and grow sustainably in real markets.
 
-- 🏗️ **Current Focus**: Scaling **DHOPA**, a smart laundry ecosystem.
-- 🛠️ **Expertise**: Next.js, TypeScript, Supabase, System Design, AI Automation.
-- 🚀 **Philosophy**: Code is a tool; products are the goal. I build for reliability, scalability, and user impact.
+I design, build, and maintain real-world production systems across web, mobile, payments, and digital operations—taking full ownership from architecture to long-term reliability.
+
+---
+
+### 🏢 SAPTECH — Technology & Payments Infrastructure
+**Founder & Lead Engineer**
+
+SAPTECH is my primary execution ground. Here, I build and operate end-to-end digital systems that power real business workflows.
+
+**What this means in practice:**
+- 💻 **Web & Mobile Systems**: Designing and maintaining robust web apps, mobile apps, and full websites.
+- 💳 **Financial Infrastructure**: Building secure national & international payment flows.
+- 🎓 **Education Tech**: Implementing university admissions & fee payment systems.
+- 🎟️ **Ticketing Platforms**: booking engines for train, bus, and flight networks.
+- 🔐 **SecOps**: Managing domains, hosting, security hardening, and uptime.
+- 📈 **Growth Tech**: Running digital marketing systems, ad funnels, and app growth campaigns.
+
+> *SAPTECH is not just development—it’s operations, payments, security, and scale combined into working systems.*
+
+### 🚨 We People — Community Safety & Emergency Network
+**Real-time Neighborhood Safety**
+
+We People is a humanitarian, tech-driven safety platform designed to help people connect with nearby helpers during emergencies.
+
+- 📍 **Real-time GPS**: Privacy-aware user location tracking.
+- � **SOS Broadcasts**: Instant alerts to nearby users.
+- 🗺️ **Safe Points**: Map-based visualization of community helpers.
+- 🔁 **Resilience**: Built with scalability and low-latency response in mind.
+
+### 🧺 DHOPA — Smart Laundry Ecosystem
+**Operations-First Service Platform**
+
+DHOPA is built for high-volume, low-margin environments where efficiency matters more than features.
+
+- 💰 **Dynamic Billing**: Automated pricing engines.
+- ⚙️ **Workflow Automation**: Admin and operator dashboards for real-time tracking.
+- 📊 **Business Intelligence**: Analytics for revenue, services, and client retention.
+- 🚀 **PWA Speed**: Optimized flows for rapid field usage.
+
+> *DHOPA is about engineering discipline—making software that survives daily operational stress.*
+
+---
+
+### 📌 Operating Principle
+> **"Build systems that work quietly, scale safely, and don’t need constant fixing."**
 
 ---
 
@@ -41,24 +82,6 @@ I specialize in building high-performance, real-world production systems. From a
   <img src="https://img.shields.io/badge/System%20Design-85%25-0077B5?style=for-the-badge&logo=design&logoColor=white" alt="System Design" /><br>
   <img src="https://img.shields.io/badge/AI%2FIoT%20Integration-80%25-0077B5?style=for-the-badge&logo=intel&logoColor=white" alt="AI/IoT Integration" />
 </p>
-
----
-
-### 🚀 Featured Products & Production Systems
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[DHOPA](https://github.com/MasterSaptak)** | **Smart Laundry Ecosystem.** A comprehensive SaaS platform featuring a User App, Admin Panel, and Automated Billing System. Optimized for real-time order tracking and operational efficiency. | `Next.js`, `TypeScript`, `Supabase`, `PWA`, `Analytics` |
-| **[We-People](https://github.com/MasterSaptak)** | **Real-time Neighborhood Safety.** An SOS and safety platform designed for immediate emergency response and community-driven security. | `Real-time SDKs`, `Node.js`, `System Design` |
-| **[Saptech](https://github.com/MasterSaptak)** | **IT Consultancy & Payment Infrastructure.** Focused on building robust payment solutions and providing technical consultancy for startups. | `Payment APIs`, `Architecture`, `Cloud` |
-
----
-
-### 🔬 AI & IoT Research
-
-- **PotatoCare**: AI-driven plant pathology and monitoring system.
-- **IOBOTANICA**: Intelligent botanical ecosystem with automated irrigation and health tracking.
-- **GLAMORA**: Smart system integration for high-end lifestyle automation.
 
 ---
 
