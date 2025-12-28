@@ -93,7 +93,7 @@ I specialize in building high-performance, real-world production systems. From a
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time." alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=800&lines=Building+the+future%2C+one+commit+at+a+time." alt="Footer Typing SVG" />
 </p>
 
 <p align="center">
