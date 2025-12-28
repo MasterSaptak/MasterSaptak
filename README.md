@@ -36,10 +36,10 @@ I specialize in building high-performance, real-world production systems. From a
 #### 📊 Proficiency & Focus
 
 <p align="center">
-  <img src="https://progress-bar.dev/95/?title=Next.js&width=600&color=0077B5" alt="Next.js" /><br>
-  <img src="https://progress-bar.dev/90/?title=TypeScript&width=600&color=0077B5" alt="TypeScript" /><br>
-  <img src="https://progress-bar.dev/85/?title=System%20Design&width=600&color=0077B5" alt="System Design" /><br>
-  <img src="https://progress-bar.dev/80/?title=AI/IoT%20Integration&width=600&color=0077B5" alt="AI/IoT Integration" />
+  <img src="https://img.shields.io/badge/Next.js-95%25-0077B5?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /><br>
+  <img src="https://img.shields.io/badge/TypeScript-90%25-0077B5?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /><br>
+  <img src="https://img.shields.io/badge/System%20Design-85%25-0077B5?style=for-the-badge&logo=design&logoColor=white" alt="System Design" /><br>
+  <img src="https://img.shields.io/badge/AI%2FIoT%20Integration-80%25-0077B5?style=for-the-badge&logo=intel&logoColor=white" alt="AI/IoT Integration" />
 </p>
 
 ---
@@ -65,8 +65,8 @@ I specialize in building high-performance, real-world production systems. From a
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MasterSaptak&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="400" alt="MasterSaptak's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterSaptak&layout=compact&theme=tokyonight&hide_border=true" width="300" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MasterSaptak&show_icons=true&theme=tokyonight&hide_border=true&v=1" width="400" alt="MasterSaptak's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterSaptak&layout=compact&theme=tokyonight&hide_border=true&v=1" width="300" alt="Top Langs" />
 </p>
 
 <p align="center">
@@ -93,11 +93,11 @@ I specialize in building high-performance, real-world production systems. From a
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=800&lines=Building+the+future%2C+one+commit+at+a+time." alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=1000&height=50&lines=Building+the+future%2C+one+commit+at+a+time.&v=1" alt="Footer Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saptak-roy-akash-44b226248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saptak-roy-44b226248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:burningsoulofdarkness@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/MasterSaptak"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://x.com/MasterSaptak"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
