@@ -20,6 +20,8 @@ I build technology-backed businesses, not just software. My focus is creating sc
 
 I design, build, and maintain real-world production systems across web, mobile, payments, and digital operations—taking full ownership from architecture to long-term reliability.
 
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0077B5&height=60&preserve_aspect_ratio=true" width="100%"/>
+
 ---
 
 ### 🏢 SAPTECH — Technology & Payments Infrastructure
@@ -78,6 +80,11 @@ DHOPA is built for high-volume, low-margin environments where efficiency matters
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MasterSaptak/MasterSaptak/main/proficiency.svg" width="100%" alt="Real-time Proficiency Metrics" />
+</p>
+
+### 📉 Activity Graph
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MasterSaptak&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
