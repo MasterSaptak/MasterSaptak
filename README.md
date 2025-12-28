@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0077B5&height=200&section=header&text=Saptak%20Das&fontSize=80&animation=fadeIn" />
+  <img src="banner.png" width="100%" alt="Master Saptak Banner" />
 </p>
 
 <p align="center">
@@ -83,9 +83,7 @@ I specialize in building high-performance, real-world production systems. From a
 </p>
 
 <!-- Lowlighter/Metrics section -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MasterSaptak/MasterSaptak/master/github-metrics.svg" alt="Metrics" />
-</p>
+  <img src="https://raw.githubusercontent.com/MasterSaptak/MasterSaptak/main/github-metrics.svg" alt="Metrics" />
 
 ---
 
