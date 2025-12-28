@@ -34,10 +34,13 @@ I specialize in building high-performance, real-world production systems. From a
 </p>
 
 #### 📊 Proficiency & Focus
-![Next.js](https://geen-progress-bar.vercel.app/api/progress?label=Next.js&progress=95&color=0077B5)
-![TypeScript](https://geen-progress-bar.vercel.app/api/progress?label=TypeScript&progress=90&color=0077B5)
-![System Design](https://geen-progress-bar.vercel.app/api/progress?label=System%20Design&progress=85&color=0077B5)
-![AI/IoT Integration](https://geen-progress-bar.vercel.app/api/progress?label=AI/IoT%20Integration&progress=80&color=0077B5)
+
+<p align="center">
+  <img src="https://progress-bar.dev/95/?title=Next.js&width=600&color=0077B5" alt="Next.js" /><br>
+  <img src="https://progress-bar.dev/90/?title=TypeScript&width=600&color=0077B5" alt="TypeScript" /><br>
+  <img src="https://progress-bar.dev/85/?title=System%20Design&width=600&color=0077B5" alt="System Design" /><br>
+  <img src="https://progress-bar.dev/80/?title=AI/IoT%20Integration&width=600&color=0077B5" alt="AI/IoT Integration" />
+</p>
 
 ---
 
@@ -62,12 +65,12 @@ I specialize in building high-performance, real-world production systems. From a
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MasterSaptak&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="MasterSaptak's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterSaptak&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MasterSaptak&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="400" alt="MasterSaptak's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterSaptak&layout=compact&theme=tokyonight&hide_border=true" width="300" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MasterSaptak&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MasterSaptak&theme=tokyonight&hide_border=true" width="700" alt="GitHub Streak" />
 </p>
 
 ---
@@ -83,12 +86,14 @@ I specialize in building high-performance, real-world production systems. From a
 </p>
 
 <!-- Lowlighter/Metrics section -->
-  <img src="https://raw.githubusercontent.com/MasterSaptak/MasterSaptak/main/github-metrics.svg" alt="Metrics" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MasterSaptak/MasterSaptak/main/github-metrics.svg" width="100%" alt="Personal Metrics" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0077B5&height=100&section=footer&text=Building%20the%20future%2C%20one%20commit%20at%20a%20time.&fontSize=20" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time." alt="Footer Typing SVG" />
 </p>
 
 <p align="center">
