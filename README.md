@@ -61,6 +61,25 @@ DHOPA is built for high-volume, low-margin environments where efficiency matters
 
 > *DHOPA is about engineering discipline—making software that survives daily operational stress.*
 
+### 🛠️ Error_CCx404 — DevOps & Innovation Community
+**Where Builders Debug the Future**
+
+Error_CCx404 is a high-performance community portal focusing on software development, cybersecurity, robotics, IoT, hackathons, and startup innovation under Saptech.
+
+- 🚀 **Modern Stack**: Built with Next.js 15, React 19, and Tailwind CSS 4.0.
+- 🧠 **AI-Powered**: Integrated Google Gemini API for intelligent features.
+- ⚡ **Real-time Backend**: Powered by Firebase (Firestore, Auth, Storage).
+- ✨ **Animations**: Fluid experience with Motion & Tailwind Animate.
+
+### 🌐 saptak.saptech.online — Advanced Cyber-Physical Systems
+**Interactive Cyber-Physical Systems Interface**
+
+An interactive portfolio and research interface highlighting secure system design, robotics, IoT architectures, and applied cybersecurity research.
+
+- 🎨 **Dynamic UI**: Engineered with Next.js 15, Framer Motion, and Radix UI.
+- 📊 **Data Visualization**: Integrated Recharts for complex data rendering.
+- 🔐 **Secure Architecture**: Focused on applied cybersecurity and robust system design.
+
 ---
 
 ### 📌 Operating Principle
