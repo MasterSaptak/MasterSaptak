@@ -14,71 +14,77 @@
 
 ---
 
-### ⚡ Founder • Full-Stack Engineer • Systems Architect
+### ⚡ Full-Stack Developer • AI Engineer • IoT/Robotics Enthusiast
 
-I build technology-backed businesses, not just software. My focus is creating scalable digital systems that solve operational problems and grow sustainably in real markets.
+I build real-world intelligent systems integrating sensors, embedded microcontrollers, cloud services, and machine learning models. My focus is on AI-powered and IoT-based solutions for healthcare, agriculture, sustainability, and community safety.
 
-I design, build, and maintain real-world production systems across web, mobile, payments, and digital operations—taking full ownership from architecture to long-term reliability.
+I design, build, and operate production-grade systems—taking full ownership from circuit design and firmware to scalable cloud architecture and advanced AI inference.
 
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0077B5&height=60&preserve_aspect_ratio=true" width="100%"/>
 
 ---
 
-### 🏢 SAPTECH — Technology & Payments Infrastructure
-**Founder & Lead Engineer**
+### 🏥 SepsisAlert — AI-Powered Early Detection
+**AI + IoT for Healthcare**
 
-SAPTECH is my primary execution ground. Here, I build and operate end-to-end digital systems that power real business workflows.
+An early sepsis detection system prioritizing real-time monitoring and medical data streaming via AWS IoT.
 
-**What this means in practice:**
-- 💻 **Web & Mobile Systems**: Designing and maintaining robust web apps, mobile apps, and full websites.
-- 💳 **Financial Infrastructure**: Building secure national & international payment flows.
-- 🎓 **Education Tech**: Implementing university admissions & fee payment systems.
-- 🎟️ **Ticketing Platforms**: booking engines for train, bus, and flight networks.
-- 🔐 **SecOps**: Managing domains, hosting, security hardening, and uptime.
-- 📈 **Growth Tech**: Running digital marketing systems, ad funnels, and app growth campaigns.
+- 🧠 **Deep Learning**: Trained on MIMIC-IV medical data for early screening.
+- 📡 **AWS IoT Core**: Secure, low-latency streaming of vitals (Heart Rate, SpO2, Temp).
+- ☁️ **Cloud Native**: Designed for rural healthcare workers with limited local resources.
 
-> *SAPTECH is not just development—it’s operations, payments, security, and scale combined into working systems.*
+### 🪴 IOBOTANICA — Smart Gardening Ecosystem
+**IoT-Based Precision Agriculture**
 
-### 🚨 We People — Community Safety & Emergency Network
-**Real-time Neighborhood Safety**
+An automated plant care and environmental monitoring system built on a standalone 18650 power grid.
 
-We People is a humanitarian, tech-driven safety platform designed to help people connect with nearby helpers during emergencies.
+- 📟 **Embedded Systems**: Built with ESP8266 NodeMCU & high-precision sensors.
+- 🔄 **Automation**: Soil moisture-based irrigation control with manual override via Blynk.
+- 🔋 **Energy Management**: Integrated battery monitoring for remote deployments.
 
-- 📍 **Real-time GPS**: Privacy-aware user location tracking.
-- � **SOS Broadcasts**: Instant alerts to nearby users.
-- 🗺️ **Safe Points**: Map-based visualization of community helpers.
-- 🔁 **Resilience**: Built with scalability and low-latency response in mind.
+### 💇 GLAMORA — AI Hairstyle Recommendation
+**Computer Vision + E-commerce**
 
-### 🧺 DHOPA — Smart Laundry Ecosystem
-**Operations-First Service Platform**
+A hairstyle recommendation and barber booking platform with real-time face shape detection.
 
-DHOPA is built for high-volume, low-margin environments where efficiency matters more than features.
+- 👁️ **Applied CV**: Real-time inference using Python, PyTorch, and OpenCV.
+- 📅 **Booking Engine**: Secure appointment workflows with automated confirmations.
+- 🎨 **Modern Stack**: High-performance Next.js interface with fluid animations.
 
-- 💰 **Dynamic Billing**: Automated pricing engines.
-- ⚙️ **Workflow Automation**: Admin and operator dashboards for real-time tracking.
-- 📊 **Business Intelligence**: Analytics for revenue, services, and client retention.
-- 🚀 **PWA Speed**: Optimized flows for rapid field usage.
+### 🥔 PotatoCare — Research & Precision Ag
+**Deep Learning for Crop Protection**
 
-> *DHOPA is about engineering discipline—making software that survives daily operational stress.*
+A CNN-based framework for automated detection and classification of potato plant diseases.
+
+- 📊 **CNN Architectures**: Evaluated VGG, DenseNet, ResNet, and EfficientNet.
+- ✅ **State-of-the-art Accuracy**: EfficientNetB3 achieved **99.82%** classification accuracy.
+- 📖 **Publication**: Accepted at **ICDSIS 2025** (International Conference on Data Science and Intelligent Systems).
+
+### 🏢 SAPTECH — Technology & Innovation Hub
+**Founder & Lead Architect**
+
+SAPTECH is my primary execution ground for building and operating real-world digital systems at scale.
+
+- 💻 **Systems Architecture**: Full-stack web/mobile apps and scalable business software.
+- 💳 **Infrastructure**: Secure payment flows and education-tech integration.
+- 🛡️ **Cybersecurity**: Domain management, hosting hardening, and continuous monitoring.
 
 ### 🛠️ Error_CCx404 — DevOps & Innovation Community
 **Where Builders Debug the Future**
 
-Error_CCx404 is a high-performance community portal focusing on software development, cybersecurity, robotics, IoT, hackathons, and startup innovation under Saptech.
+Error_CCx404 is a high-performance community portal focusing on software development, cybersecurity, robotics, IoT, and startup innovation.
 
-- 🚀 **Modern Stack**: Built with Next.js 15, React 19, and Tailwind CSS 4.0.
-- 🧠 **AI-Powered**: Integrated Google Gemini API for intelligent features.
+- 🚀 **Next-Gen Stack**: Built with Next.js 15, React 19, and Tailwind CSS 4.0.
+- 🧠 **AI-Powered**: Integrated Google Gemini API for intelligent automation.
 - ⚡ **Real-time Backend**: Powered by Firebase (Firestore, Auth, Storage).
-- ✨ **Animations**: Fluid experience with Motion & Tailwind Animate.
 
-### 🌐 saptak.saptech.online — Advanced Cyber-Physical Systems
-**Interactive Cyber-Physical Systems Interface**
+### 🌐 saptak.saptech.online — Cyber-Physical Interface
+**Personal Portfolio & Research Hub**
 
-An interactive portfolio and research interface highlighting secure system design, robotics, IoT architectures, and applied cybersecurity research.
+An interactive interface highlighting secure system design, robotics, IoT architectures, and applied research.
 
-- 🎨 **Dynamic UI**: Engineered with Next.js 15, Framer Motion, and Radix UI.
-- 📊 **Data Visualization**: Integrated Recharts for complex data rendering.
-- 🔐 **Secure Architecture**: Focused on applied cybersecurity and robust system design.
+- 🎨 **Futuristic UI**: Engineered with Framer Motion, Radix UI, and Neon Aesthetics.
+- 🔐 **Secure Design**: Showcasing applied cybersecurity and robust system architecture.
 
 ---
 
